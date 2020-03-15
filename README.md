@@ -1,4 +1,4 @@
-# curated-arguments-against-fascism-leaning-politics
+# Curated Arguments Against Fascism
 
 Common narratives and arguments used by the light wing and corresponding responses 
 - invalidating the argument itself
